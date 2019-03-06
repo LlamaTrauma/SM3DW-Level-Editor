@@ -1,8 +1,8 @@
 
 from OpenGL.GL import *
 from OpenGL.GLU import *
-from PyQt4 import QtGui, QtCore
-from PyQt4.QtOpenGL import *
+from PyQt5 import QtGui, QtCore
+from PyQt5.QtOpenGL import *
 import os, sys
 
 import byml, fmdl, sarc, yaz0
